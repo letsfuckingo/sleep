@@ -90,3 +90,4 @@ function tryMailto(mailtoUrl) {
     }
   }, 500);
 }
+
